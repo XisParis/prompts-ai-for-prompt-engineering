@@ -1,38 +1,43 @@
-# 🤖 AI Prompt Engineering & Usage Pack  
-A curated collection of AI prompts for learning and experimentation ✨
+# 🤖 Pacote de Engenharia e Uso de Prompts de IA  
+Uma coleção cuidadosamente selecionada de prompts de IA para aprendizado e experimentação ✨
 
 ---
 
-<img src="https://jamesbachini.com/wp-content/uploads/2024/09/PromptEngineering-1-1024x499.png" alt="Copyright: James Bachini" width="1200" />
+<img src="https://jamesbachini.com/wp-content/uploads/2024/09/PromptEngineering-1-1024x499.png" alt="Copyright: James Bachini" width="700" />
 
 ---
 
-## 📚 About
+## 📚 Sobre
 
-This repository contains a carefully selected set of AI prompts designed to help users understand and practice prompt engineering. It aims to optimize AI interactions and explore creative applications. Whether you are new or experienced with AI, this collection provides practical examples to improve your results.
+Este repositório contém um conjunto de prompts de IA cuidadosamente escolhidos, projetados para ajudar usuários a compreender e praticar engenharia de prompts. O objetivo é otimizar interações com IA e explorar aplicações criativas. Seja você iniciante ou experiente, esta coleção oferece exemplos práticos para melhorar seus resultados.  
 
-🚀 Importantly, this pack includes prompts tailored for well-known AI models such as **GROK**, **META**, **DEEPSEEK**, **CHATGPT, and others, allowing you to experiment across different platforms and leverage their unique capabilities.
-
----
-
-## ✨ Features
-
-- 💡 Diverse prompts tailored for various AI models and tasks  
-- 🌐 Prompts used by companies like GROK, META, DEEPSEEK, OpenAI, HuggingFace among others  
+🚀 Este pacote inclui prompts adaptados para modelos de IA conhecidos, como **GROK**, **META**, **DEEPSEEK**, **CHATGPT** e outros, permitindo experimentar em diferentes plataformas e aproveitar suas capacidades únicas.
 
 ---
 
-## 📖 How to Use
+## ✨ Recursos
 
-Explore the prompts provided, study the examples and explanations, then adapt and test them using your preferred AI platform. Share your findings and improvements with the community! 💬
+- 💡 Prompts diversos, adaptados para diferentes modelos e tarefas  
+- 🌐 Prompts utilizados por empresas como GROK, META, DEEPSEEK, OpenAI, HuggingFace, entre outras  
 
 ---
 
-## 🤝 Contributing
+## 📖 Como Usar
 
-Contributions are welcome. Feel free to open issues or pull requests to add new prompts, improve existing ones, or suggest corrections.
+Explore os prompts disponíveis, estude os exemplos e explicações, depois adapte e teste-os na plataforma de IA de sua preferência. Compartilhe suas descobertas e melhorias com a comunidade! 💬
 
+---
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas. Sinta-se à vontade para abrir issues ou pull requests para adicionar novos prompts, melhorar os existentes ou sugerir correções.
+
+---
+
+### ⚠️ Nota Importante
+
+Todos os prompts foram obtidos usando as próprias IAs de forma voluntária, com perguntas diretas e simples. Caso algum proprietário de prompt deseje a remoção de seu conteúdo, basta entrar em contato e ele será removido prontamente.
 
 <p align="center">
-  <sub>Created to help you master AI prompt engineering ⚙️✨</sub>
+  <sub>Criado para ajudar você a dominar a engenharia de prompts de IA ⚙️✨</sub>
 </p>
